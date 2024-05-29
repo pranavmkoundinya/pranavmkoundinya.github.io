@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pranav's Homepage"
+title: "My Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,14 @@ redirect_from:
 
 Welcome! I am interested in the domains of image signal processing, computer vision and deep learning. I hope to explore the intersections of these domains by working on inverse problems in imaging, which have profound applications in biomedical imaging, computational photography, etc. I graduated from the National Institute of Technology Karnataka, Surathkal, India with a Bachelor of Technology in Electronics and Communication Engineering. My bachelor's thesis was on data driven approaches to solve inverse imaging problems, with focus on CT reconstruction. I have been working as a research intern at Spectrum Lab, Dept. of EE, Indian Institute of Science Bangalore, under the guidance of Prof. Chandra Sekhara Seelamantula.
 
+Adversarial Regularization
+=====
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Adversarial regularization is a model-driven approach to solve the variational problem, but without the need of explicit input-output pairs. The central idea of the AR framework is to model the regularization functional as a deep neural network optimized using training data. The regularizer in the AR setting is trained to discriminate between clean ground truth images and their noisy reconstructions, thus acting as a critic between the two distributions. As such the loss-function used to train this network is designed to give high values for noisy reconstructions and low values for clean ground truth images. Once the network has thus been trained, the inverse problem is solved by gradient descent.
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -49,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
