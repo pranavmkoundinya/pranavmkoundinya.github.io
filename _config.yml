@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Pranav Koundinya"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Pranav Koundinya"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pranavmkoundinya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pranavmkoundinya/pranavmkoundinya.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Pranav Koundinya"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Mysuru, Karnataka, India"
+  employer         : "National Institute of Technology Karnataka, Surathkal"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pranavmkoundinya@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "pranavmkoundinya"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "pranav-m-koundinya-4a7597207" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Pranavmk6" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
