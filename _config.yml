@@ -21,7 +21,7 @@ repository               : "pranavmkoundinya/pranavmkoundinya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/pic.jpeg"
+  avatar           : "files/pic.jpeg"
   name             : "Pranav Koundinya"
   pronouns         : # example: "she/her"  
   bio              : "Image Signal Processing, Inverse Problems"
