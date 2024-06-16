@@ -9,10 +9,10 @@ redirect_from:
 
 Hey there! I am interested in the domains of image signal processing, computer vision and deep learning. In particular, I am looking to explore the intersections of these domains by working on inverse problems in imaging, which have profound applications in biomedical imaging, computational photography, etc. I graduated from the National Institute of Technology Karnataka, Surathkal, India with a Bachelor of Technology in Electronics and Communication Engineering. My bachelor's thesis was on data driven approaches to solve inverse imaging problems, with focus on CT reconstruction. Since May 2023, I have been working as a research intern at Spectrum Lab, Dept. of EE, Indian Institute of Science Bangalore, under the guidance of Prof. Chandra Sekhara Seelamantula.
 
-Adversarial Regularization
+<!-- Adversarial Regularization
 =====
 
-Adversarial regularization is a model-driven approach to solve the variational problem, but without the need of explicit input-output pairs. The central idea of the AR framework is to model the regularization functional as a deep neural network optimized using training data. The regularizer in the AR setting is trained to discriminate between clean ground truth images and their noisy reconstructions, thus acting as a critic between the two distributions. As such the loss-function used to train this network is designed to give high values for noisy reconstructions and low values for clean ground truth images. Once the network has thus been trained, the inverse problem is solved by gradient descent.
+Adversarial regularization is a model-driven approach to solve the variational problem, but without the need of explicit input-output pairs. The central idea of the AR framework is to model the regularization functional as a deep neural network optimized using training data. The regularizer in the AR setting is trained to discriminate between clean ground truth images and their noisy reconstructions, thus acting as a critic between the two distributions. As such the loss-function used to train this network is designed to give high values for noisy reconstructions and low values for clean ground truth images. Once the network has thus been trained, the inverse problem is solved by gradient descent. -->
 
 
 
