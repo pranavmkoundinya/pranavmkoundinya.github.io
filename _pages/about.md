@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am interested in the domains of image signal processing, computer vision and deep learning. I hope to explore the intersections of these domains by working on inverse problems in imaging, which have profound applications in biomedical imaging, computational photography, etc. I graduated from the National Institute of Technology Karnataka, Surathkal, India with a Bachelor of Technology in Electronics and Communication Engineering. My bachelor's thesis was on data driven approaches to solve inverse imaging problems, with focus on CT reconstruction. I have been working as a research intern at Spectrum Lab, Dept. of EE, Indian Institute of Science Bangalore, under the guidance of Prof. Chandra Sekhara Seelamantula.
+Hey there! I am interested in the domains of image signal processing, computer vision and deep learning. In particular, I am looking to explore the intersections of these domains by working on inverse problems in imaging, which have profound applications in biomedical imaging, computational photography, etc. I graduated from the National Institute of Technology Karnataka, Surathkal, India with a Bachelor of Technology in Electronics and Communication Engineering. My bachelor's thesis was on data driven approaches to solve inverse imaging problems, with focus on CT reconstruction. Since May 2023, I have been working as a research intern at Spectrum Lab, Dept. of EE, Indian Institute of Science Bangalore, under the guidance of Prof. Chandra Sekhara Seelamantula.
 
 Adversarial Regularization
 =====
